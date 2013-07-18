@@ -11,10 +11,3 @@ def is_prime?(num)
 	return prime
 end
 
-puts is_prime?(1)
-puts is_prime?(3)
-puts is_prime?(4)
-puts is_prime?(9)
-puts is_prime?(51)
-puts is_prime?(2)
-puts is_prime?(457)
